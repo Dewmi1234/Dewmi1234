@@ -1,34 +1,150 @@
-<h1 align="center">Hi 👋, I'm Dewmi kavindi</h1>
-<h3 align="center">A Software Developer passionate about creating user-friendly solutions.</h3>
+<!--
+Hello Dewmi!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewmi1234&label=Profile%20views&color=0e75b6&style=flat" alt="dewmi1234" /> </p>
+This is an advanced and visually structured README designed for a modern, professional look.
+To make it your own, you'll need to do a few things:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+The header and coding GIFs are placeholders from Imgur. For long-term stability, I recommend forking this project, uploading these GIFs to your own repository, and replacing the URLs below.
 
-- 🔭 I’m currently working on **Interactive Portfolio Website**
+Double-check that all your social media and project links are correct.
 
-- 🌱 I’m currently learning **React**
+Enjoy your new profile!
+-->
 
-- 👨‍💻 All of my projects are available at [https://endearing-naiad-6afd10.netlify.app/](https://endearing-naiad-6afd10.netlify.app/)
+<!-- Header Banner -->
 
-- 💬 Ask me about **React**
+<div align="center">
+<img src="https://www.google.com/search?q=https://i.imgur.com/8Q2m1QG.gif" alt="Abstract Header Banner" width="100%"/>
+</div>
 
-- 📫 How to reach me **dewmikavindi743@gmail.com**
+<!-- Main Title and Introduction -->
 
-- 📄 Know about my experiences [https://endearing-naiad-6afd10.netlify.app/](https://endearing-naiad-6afd10.netlify.app/)
+<div align="center">
+<h1>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%2520gestures/Waving%2520Hand.png" alt="Waving Hand" width="35" />
+Hi, I'm Dewmi Kavindi (DK)
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" />
+</h1>
+<h3>A passionate Software Developer from Sri Lanka 🇱🇰 crafting beautiful and functional digital experiences.</h3>
+</div>
 
-- ⚡ Fun fact **Call me as DK**
+<!-- Profile Views and Social Links -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dewmi_kavindi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmi_kavindi_" height="30" width="40" /></a>
-<a href="https://fb.com/deumi_kavindi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deumi_kavindi_" height="30" width="40" /></a>
-<a href="https://instagram.com/dewmi_kavindi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewmi_kavindi_" height="30" width="40" /></a>
+<div align="center">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/dewmi_kavindi_" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/Dewmi1234" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge"/>
+</a>
+<a href="https://www.google.com/search?q=https://endearing-naiad-6afd10.netlify.app/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-28B463%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox-browser%26logoColor%3Dwhite" alt="Portfolio Badge"/>
+</a>
+<a href="mailto:dewmikavindi743@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+</div>
+
+<!-- Section Divider -->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/alebcay/alebcay/main/src/assets/separators/gradient-bar.png" alt="Gradient Divider" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- About Me & Current Focus Table -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewmi1234&show_icons=true&locale=en&layout=compact" alt="dewmi1234" /></p>
+<table>
+<tr>
+<td valign="top" width="50%">
+<div align="center">
+<h2>🚀 About Me</h2>
+</div>
+<ul>
+<li>🔭 I’m currently building an Interactive Portfolio Website with React & Three.js.</li>
+<li>🌱 I’m mastering Advanced React Patterns and diving into Web Animations with GSAP.</li>
+<li>🤝 I’m looking to collaborate on innovative open-source frontend projects.</li>
+<li>💬 Ask me about React, JavaScript, UI/UX, and creating smooth user interfaces.</li>
+<li>⚡ Fun fact: Everyone calls me DK!</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<div align="center">
+<img src="https://www.google.com/search?q=https://i.imgur.com/M8aB2S0.gif" alt="Digital Brain Animation" width="100%"/>
+</div>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewmi1234&show_icons=true&locale=en" alt="dewmi1234" /></p>
+<!-- Section Divider -->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/alebcay/alebcay/main/src/assets/separators/gradient-bar.png" alt="Gradient Divider" width="100%"/>
+</p>
+
+<!-- Tech Stack -->
+
+<div align="center">
+<h2>🛠️ My Tech Stack</h2>
+<p>Technologies and tools I use to bring ideas to life.</p>
+</div>
+
+<table width="100%">
+<tr>
+<td align="center">
+<h4>Frontend</h4>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>Mobile & Backend</h4>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite" alt="Android"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>Design & Tools</h4>
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-photoshop%26logoColor%3Dwhite" alt="Photoshop"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</p>
+</td>
+</tr>
+</table>
+
+<!-- Section Divider -->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/alebcay/alebcay/main/src/assets/separators/gradient-bar.png" alt="Gradient Divider" width="100%"/>
+</p>
+
+<!-- GitHub Stats -->
+
+<div align="center">
+<h2>📊 My GitHub Stats</h2>
+</div>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddewmi1234%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Dewmi's GitHub Stats" width="49%"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddewmi1234%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" width="49%"/>
+</p>
+
+<!-- Footer -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Ddewmi1234%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile Views Counter"/>
+</div>
