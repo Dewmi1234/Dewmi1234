@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7F77DD&text=Dewmi%20Kavindi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=65&descColor=AFA9EC" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Crafting+Professional+UI%2FUX+Experiences;Architecting+Robust+Flask+%26+React+Systems;Integrating+Gemini+AI+Into+Web+Apps;BEng+(Hons)+Software+Engineering+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Crafting+Professional+UI%2FUX+Experiences;Building+Robust+React+%26+Python+Systems;Integrating+Gemini+AI+Into+Web+Apps;BEng+(Hons)+Software+Engineering+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br>
 
@@ -17,15 +17,15 @@
 [![Resume](https://img.shields.io/badge/View_My_Resume-%231D9E75.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/178A5Q0vghMM0eXtZnw7PWMsG07XjAlrv/view?usp=sharing)
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=dewmi1234&color=7F77DD&style=flat-square&label=Profile+Visits" />
+<img src="https://komarev.com/ghpvc/?username=Dewmi1234&color=7F77DD&style=flat-square&label=Profile+Visits" />
 
 </div>
 
 ---
 
 <div align="left">
-  <!-- Super Attractive Tech Loop Video (GIF) on Right Side -->
-  <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Futuristic Tech Coding Loop" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 4px 20px rgba(127, 119, 221, 0.4);" />
+  <!-- Premium Dark Aesthetic Coding GIF -->
+  <img align="right" width="400" src="https://i.pinimg.com/originals/70/a5/5a/70a55a8286a01f59223126fcefa7925e.gif" alt="Premium Tech Coding Loop" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 4px 20px rgba(127, 119, 221, 0.4);" />
 
   ## 🚀 About Me
   
@@ -35,7 +35,7 @@
   - 🎨 **UI/UX Focus:** Creating high-end, responsive dark themes with glassmorphism layouts.
   - ⚙️ **Current Projects:** Streamlining sales distribution architectures and smart local environment booking platforms.
   - 🤖 **AI Integration:** Implementing conversational agents and smart metrics using the Gemini API.
-  - 💼 **Goal:** Delivering clean code, optimized databases, and premium interfaces to drive real-world results.
+  - 💼 **Goal:** Delivering clean code, optimized workflows, and premium interfaces to drive real-world results.
 
 </div>
 <br clear="both">
@@ -45,22 +45,29 @@
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
-  
-  ### 🔹 Core Languages & Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask&perline=10" />
-  </a>
+  <p>A carefully curated stack I use to bring ideas to life.</p>
+
+  ### 🌐 Frontend & UI/UX
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
   <br>
 
-  ### 🔹 Database & Development Ecosystem
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,ps,vscode&perline=10" />
-  </a>
-  <br><br>
-  
-  <!-- Custom Sleek Badges for Gemini and XAMPP -->
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/XAMPP%20Local%20Server-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+  ### ⚙️ Backend & Artificial Intelligence
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP%20Server-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+
+  <br>
+
+  ### 🧰 Development Tools & Design
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 
 </div>
 
@@ -70,27 +77,29 @@
 
 <div align="center">
 
-<!-- Fixed Username for Trophies and Stats Cards -->
-<img src="https://github-profile-trophy.vercel.app/?username=dewmi1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<!-- Trophies Fixed: Exact Username and Error Handling Params -->
+<a href="https://github.com/Dewmi1234">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dewmi1234&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</a>
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dewmi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dewmi1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dewmi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmi1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🎯 Case Studies & Production Systems
+## 🎯 Case Studies & Established Systems
 
 <div align="center">
 
-| System Profile | Core Stack | Operational Blueprint & Scope |
+| 🚀 Project & System | 🛠️ Core Tech Stack | 📖 Operational Blueprint & Scope |
 |:---|:---|:---|
-| 🏫 **ESOFT Lab Booking System** | `React` · `Flask` · `MySQL` | Secure full-stack environment featuring real-time workstation allocation, interactive student tracking, and dynamic dashboard controls. |
-| 📱 **Smart Attendance System** | `Python` · `Flask` · `XAMPP` | Automated student logs integrated with background processing and localized database synchronization. |
-| 🔗 **IslandLink-ISDN Network** | `React` · `MySQL` · `Git` | Large-scale project tracking and data modeling built for distribution flow management. |
+| 🏫 **ESOFT Lab Booking System** | <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"> | Secure full-stack environment featuring real-time workstation allocation and dynamic dashboard controls. |
+| 📱 **Smart Attendance System** | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"> | Automated student logs integrated with background processing and localized data synchronization. |
+| 🔗 **IslandLink-ISDN Network** | <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"> | Large-scale project tracking and data modeling built for distribution flow management. |
 
 <br>
 
