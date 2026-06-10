@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 15px;" alt="Sleek Futuristic Banner" />
+<!-- Tech Dark Mode Coding Banner -->
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2000&auto=format&fit=crop" width="100%" height="220" style="object-fit: cover; border-radius: 15px;" alt="Sleek Tech Coding Banner" />
 
 <br><br>
 
@@ -23,31 +24,21 @@
 ---
 
 <div align="left">
-  <img align="right" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Developer Coding GIF" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(83, 74, 183, 0.4);" />
+  <!-- Super Attractive Tech Loop Video (GIF) on Right Side -->
+  <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Futuristic Tech Coding Loop" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 4px 20px rgba(127, 119, 221, 0.4);" />
 
-  ## 🧠 Engineering Philosophy & Expertise
+  ## 🚀 About Me
   
-  As a Full-Stack Developer bridging the gap between aesthetic design and scalable architecture, I specialize in engineering robust systems. My development approach focuses on:
+  I am a passionate **Full-Stack Developer** based in Sri Lanka, dedicated to transforming complex problems into elegant, highly professional, and user-centric web applications.
 
-  - 🏗️ **Architecting Scalability:** Building secure and highly optimized backends using **Python (Flask)** and **MySQL** that handle complex data flows efficiently.
-  - 🎨 **Modern UI/UX Paradigms:** Implementing sleek, user-centric frontends utilizing **React**, dark mode aesthetics, and deep-purple/neon-blue glassmorphism elements.
-  - 💡 **Problem-Driven Engineering:** Translating complex real-world bottlenecks into intuitive, automated digital solutions that drive impact.
-  - 🤖 **AI Integration:** Leveraging the **Gemini AI API** to create smart, predictive web applications.
+  - 🎓 **Education:** Pursuing a BEng (Hons) in Software Engineering.
+  - 🎨 **UI/UX Focus:** Creating high-end, responsive dark themes with glassmorphism layouts.
+  - ⚙️ **Current Projects:** Streamlining sales distribution architectures and smart local environment booking platforms.
+  - 🤖 **AI Integration:** Implementing conversational agents and smart metrics using the Gemini API.
+  - 💼 **Goal:** Delivering clean code, optimized databases, and premium interfaces to drive real-world results.
 
 </div>
 <br clear="both">
-
----
-
-## 🚀 Flagship Project in Development: "Nova - AI Workflow Architect"
-
-A modern web application architecture currently in the planning phase, designed to solve operational bottlenecks using AI.
-
-* **The Problem:** Fragmented communication and delayed response times (SLAs) in collaborative workspaces.
-* **The Solution:** An intelligent dashboard that predicts workflow blockages, automates task delegation, and provides smart project insights.
-* **Technical Implementation:** * **Frontend (React):** A highly attractive 'dark mode' UI featuring floating glassmorphism components, subtle holographic micro-interactions, and a minimalist high-end tech vibe.
-    * **Backend (Flask + MySQL):** RESTful API architecture handling real-time state management and secure data transactions.
-    * **AI Layer (Gemini API):** Predictive analytics and natural language query processing to guide users effortlessly.
 
 ---
 
@@ -57,23 +48,29 @@ A modern web application architecture currently in the planning phase, designed 
   
   ### 🔹 Core Languages & Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,nodejs,cs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask&perline=10" />
+  </a>
+  <br>
+
+  ### 🔹 Database & Development Ecosystem
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,ps,vscode&perline=10" />
   </a>
   <br><br>
-
-  ### 🔹 Database, Cloud & UI Design
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,gcp,git,github,figma,ps,postman,vscode&perline=10" />
-  </a>
+  
+  <!-- Custom Sleek Badges for Gemini and XAMPP -->
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/XAMPP%20Local%20Server-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Activity & Trophies
+## 🏆 GitHub Trophies & Analytics
 
 <div align="center">
 
+<!-- Fixed Username for Trophies and Stats Cards -->
 <img src="https://github-profile-trophy.vercel.app/?username=dewmi1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 
 <br><br>
@@ -85,18 +82,21 @@ A modern web application architecture currently in the planning phase, designed 
 
 ---
 
-## 🎯 Case Studies & Established Systems
+## 🎯 Case Studies & Production Systems
 
-| Project Name | Architecture | Impact & Description |
+<div align="center">
+
+| System Profile | Core Stack | Operational Blueprint & Scope |
 |:---|:---|:---|
-| 💼 **HireSprint LK** | `Full-Stack Concept` | A smart job portal designed to track employer SLAs and eliminate applicant ghosting. |
-| 🏫 **Smart Attendance** | `Flask` `Twilio API` | Automated attendance tracking featuring real-time SMS notifications for system stakeholders. |
-| 🛡️ **Online Safety Hub** | `Client-Side JS` | A highly secure, locally encrypted anonymous reporting tool for vulnerable demographics. |
-| 🔗 **IslandLink-ISDN** | `React` `MySQL` | Comprehensive sales distribution network system featuring dynamic dashboards. |
+| 🏫 **ESOFT Lab Booking System** | `React` · `Flask` · `MySQL` | Secure full-stack environment featuring real-time workstation allocation, interactive student tracking, and dynamic dashboard controls. |
+| 📱 **Smart Attendance System** | `Python` · `Flask` · `XAMPP` | Automated student logs integrated with background processing and localized database synchronization. |
+| 🔗 **IslandLink-ISDN Network** | `React` · `MySQL` · `Git` | Large-scale project tracking and data modeling built for distribution flow management. |
 
 <br>
 
-➡️ **[Review my full case studies and UI designs on my Portfolio](https://boisterous-buttercream-3f38ae.netlify.app/)**
+➡️ **[Explore the live interfaces and deep-dives on my Netlify Portfolio](https://boisterous-buttercream-3f38ae.netlify.app/)**
+
+</div>
 
 ---
 
