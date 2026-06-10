@@ -17,15 +17,15 @@
 [![Resume](https://img.shields.io/badge/View_My_Resume-%231D9E75.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/178A5Q0vghMM0eXtZnw7PWMsG07XjAlrv/view?usp=sharing)
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=dewmi1234&color=7F77DD&style=flat-square&label=Profile+Visits" />
+<img src="https://komarev.com/ghpvc/?username=Dewmi1234&color=7F77DD&style=flat-square&label=Profile+Visits" />
 
 </div>
 
 ---
 
 <div align="left">
-  <!-- Super Attractive Tech Loop Video (GIF) on Right Side -->
-  <img align="right" width="400" src="https://i.pinimg.com/originals/70/a5/5a/70a55a8286a01f59223126fcefa7925e.gif" alt="Premium Tech Coding Loop" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 4px 20px rgba(127, 119, 221, 0.4);" />
+  <!-- 100% Working GitHub Hosted Tech Loop Video (GIF) on Right Side -->
+  <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Premium Tech Coding Loop" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 4px 20px rgba(127, 119, 221, 0.4);" />
 
   ## 🚀 About Me
   
@@ -45,7 +45,7 @@
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
-  <p>A carefully curated stack I use to bring ideas to life. (Icons + Names)</p>
+  <p>A carefully curated stack I use to bring ideas to life.</p>
 
   ### 🌐 Frontend & UI/UX
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -74,19 +74,12 @@
 
 ---
 
-## 🏆 GitHub Trophies & Analytics
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
 
-<!-- Trophies Clean URL Architecture (Fixes the Broken Link) -->
-<a href="https://github.com/dewmi1234">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewmi1234&theme=tokyonight" alt="GitHub Trophies" />
-</a>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dewmi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dewmi1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dewmi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmi1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC" alt="GitHub Streak" />
 
 </div>
 
