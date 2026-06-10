@@ -17,14 +17,14 @@
 [![Resume](https://img.shields.io/badge/View_My_Resume-%231D9E75.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/178A5Q0vghMM0eXtZnw7PWMsG07XjAlrv/view?usp=sharing)
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Dewmi1234&color=7F77DD&style=flat-square&label=Profile+Visits" />
+<img src="https://komarev.com/ghpvc/?username=dewmi1234&color=7F77DD&style=flat-square&label=Profile+Visits" />
 
 </div>
 
 ---
 
 <div align="left">
-  <!-- Premium Dark Aesthetic Coding GIF -->
+  <!-- Super Attractive Tech Loop Video (GIF) on Right Side -->
   <img align="right" width="400" src="https://i.pinimg.com/originals/70/a5/5a/70a55a8286a01f59223126fcefa7925e.gif" alt="Premium Tech Coding Loop" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 4px 20px rgba(127, 119, 221, 0.4);" />
 
   ## 🚀 About Me
@@ -45,29 +45,30 @@
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
-  <p>A carefully curated stack I use to bring ideas to life.</p>
+  <p>A carefully curated stack I use to bring ideas to life. (Icons + Names)</p>
 
   ### 🌐 Frontend & UI/UX
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 
-  <br>
+  <br><br>
 
   ### ⚙️ Backend & Artificial Intelligence
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP%20Server-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 
-  <br>
+  <br><br>
 
   ### 🧰 Development Tools & Design
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
 
 </div>
 
@@ -77,15 +78,15 @@
 
 <div align="center">
 
-<!-- Trophies Fixed: Exact Username and Error Handling Params -->
-<a href="https://github.com/Dewmi1234">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dewmi1234&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<!-- Trophies Clean URL Architecture (Fixes the Broken Link) -->
+<a href="https://github.com/dewmi1234">
+  <img src="https://github-profile-trophy.vercel.app/?username=dewmi1234&theme=tokyonight" alt="GitHub Trophies" />
 </a>
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dewmi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmi1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dewmi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dewmi1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC" alt="GitHub Streak" />
 
 </div>
 
